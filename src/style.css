@@ -1,0 +1,27 @@
+body {
+  background-color:#e3f6f5;
+}
+
+footer {
+  text-align: center;
+}
+
+.container {
+background-color: #ffff;
+border-radius: 15px;
+margin: 0 auto;
+max-width: 600px;
+padding: 20px;
+}
+
+.weather-detail {
+  color: #f40968;
+}
+
+#search-input {
+  background-color:#e3f6f5;
+}
+
+#search-button {
+  
+}
